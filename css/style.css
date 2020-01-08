@@ -10,3 +10,9 @@ p {
 body {
     background-color: blanchedalmond;
 }
+
+.best {
+    color: chartreuse;
+    font-weight: bolder;
+    font-style: italic;
+}
